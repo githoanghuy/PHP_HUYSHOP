@@ -1,0 +1,18 @@
+{
+    "name": "admin/web_mysqli",
+    "autoload": {
+        "psr-4": {
+            "Admin\\WebMysqli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hoang Huy",
+            "email": "githoanghuy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "endroid/qr-code": "^4.3"
+    }
+}
